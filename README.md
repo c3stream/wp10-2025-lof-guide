@@ -6,7 +6,7 @@
 
 ## サイトURL
 
-GitHub Pages有効化後: `https://[username].github.io/game_fes/`
+**https://c3stream.github.io/wp10-2025-lof-guide/**
 
 ## 内容
 
