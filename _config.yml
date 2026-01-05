@@ -1,0 +1,26 @@
+title: "WP10 2025 対戦攻略ガイド"
+description: "LOCK ON FLEEK GAME FESTA対応 - 10年間で凱旋門賞を制覇する最強馬を作る"
+baseurl: "/game_fes"
+url: ""
+
+# Theme
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+  - jekyll-remote-theme
+
+# Language
+lang: ja
+
+# Markdown
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
